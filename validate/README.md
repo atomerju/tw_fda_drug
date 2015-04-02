@@ -3,6 +3,11 @@ Validate
 
 `validate.pl` is used to check drug title.
 
+Requirement
+-----------
+* perl
+* [XML::LibXML](http://search.cpan.org/search?query=XML%3A%3ALibXML+&mode=all)
+
 Execute
 -------
 ```bash
